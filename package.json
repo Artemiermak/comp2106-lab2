@@ -1,0 +1,16 @@
+{
+  "name": "artyom",
+  "version": "1.0.0",
+  "description": "lab2-advansed-serv-script-course",
+  "main": "index.js",
+  "dependencies": {
+    "connect": "^3.5.0",
+    "nodemon": "~1.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "artyom",
+  "license": "ISC"
+}
